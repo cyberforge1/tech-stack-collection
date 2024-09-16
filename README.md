@@ -9,12 +9,11 @@ A collection of different tech stacks to build an identical CRUD application wit
 - [x] Flask - React
 - [x] Express - React
 - [x] Spring Boot - React
+- [ ] Django - React
 - [ ] NestJS - React
 - [ ] NextJS
 - [ ] ASP.NET Core
 - [ ] Express - Angular
-- [ ] Django
-- [ ] HTML, CSS, and JavaScript
 
 # Project MVP
 
