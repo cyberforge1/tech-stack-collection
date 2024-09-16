@@ -8,7 +8,7 @@ A collection of different tech stacks to build an identical CRUD application wit
 
 - [x] Flask - React
 - [x] Express - React
-- [ ] Spring Boot - React
+- [x] Spring Boot - React
 - [ ] NestJS - React
 - [ ] NextJS
 - [ ] ASP.NET Core
