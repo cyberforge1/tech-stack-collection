@@ -1,4 +1,4 @@
-# Tech Stack Collection
+# Tech Stacks Collection
 
 ## Description
 
@@ -14,6 +14,15 @@ A collection of different tech stacks to build an identical CRUD application wit
 - [ ] NextJS
 - [ ] ASP.NET Core
 - [ ] Express - Angular
+
+# Project Links
+
+- [Flask API Tech Stacks Collection](https://github.com/cyberforge1/flask-api-tech-stacks-collection)
+
+- [React UI Tech Stacks Collection](https://github.com/cyberforge1/react-ui-tech-stacks-collection)
+
+- [Databases Tech Stacks Collection](https://github.com/cyberforge1/databases-tech-stacks-collection)
+
 
 # Project MVP
 
@@ -32,7 +41,6 @@ A collection of different tech stacks to build an identical CRUD application wit
     - dynamically rendered delete todo’ button
 
 ## Backend
-
 
 - URL endpoint to test access (ex. /helloworld)
 - A value passed to the frontend directly as a string from the backend (w/o db access)
